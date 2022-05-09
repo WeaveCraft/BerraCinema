@@ -1,0 +1,15 @@
+﻿Dessa websidor har hjälp mig med detta arbete:
+
+https://sweetalert2.github.io/ //För notifikationer som kan hittas i wwwroot/js/menuItem.js (Delete notifikation)
+https://github.com/CodeSeven/toastr //För update notifikationer
+
+https://icons.getbootstrap.com/icons/ //Bootstrap Icons
+
+https://bootswatch.com/lux/? // För snyggare UI font
+
+https://www.tiny.cloud/my-account/dashboard //"Tiny API Key" för DataTable --> https://datatables.net/ DataTable Configs kan hittas i wwwroot -> js -> menuItem.js
+
+**Login**
+
+Email: admin@live.com
+Password: Admin123!

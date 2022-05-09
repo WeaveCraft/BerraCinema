@@ -1,0 +1,33 @@
+﻿@page
+@model BerraWebb.Pages.Admin.MovieDurations.EditModel
+
+<form method="post">
+    <input hidden asp-for="MovieDuration.Id" />
+    <div class="border-bottom p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary pl-3">Edit Movie Duration</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <label asp-for="MovieDuration.Name"></label>
+            <input asp-for="MovieDuration.Name" class="form-control" />
+            <span asp-validation-for="MovieDuration.Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="MovieDuration.Date"></label>
+            <input asp-for="MovieDuration.Date" class="form-control" />
+            <span asp-validation-for="MovieDuration.Date" class="text-danger"></span>
+        </div>
+        
+        <button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+        <a asp-page="Index" class="btn btn-secondary" style="width:150px;">Back to List</a>
+    </div>
+</form>
+
+@*Client Side Validation*@
+@section Scripts{ 
+    @{
+        <partial name="_ValidationScriptsPartial"></partial>
+    }
+}

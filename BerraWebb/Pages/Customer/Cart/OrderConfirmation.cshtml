@@ -1,0 +1,24 @@
+﻿@page
+@model BerraWebb.Pages.Customer.Cart.OrderConfirmationModel
+
+<form method="post">
+<div class="container row">
+    <div class="col-12 text-center">
+        <h1 class="text-primary text-center">Order Placed Successfully!</h1>
+        Thank you @Model.OrderHeader.PickupName for using our services! <br />
+        An confirmation has been sent to @Model.OrderHeader.PhoneNumber. <br /><br />
+        <div>
+        </div>
+        <img src="~/images/successC.jpeg" width="65%" />
+    </div>
+    <div class="col-12 text-center" style="color:maroon">
+        <br />
+        Your movie reservation has been placed successfully! <br />
+        Enjoy The Movie!
+    </div>
+</div> 
+</form>
+
+
+
+
