@@ -11,7 +11,7 @@ namespace Berra.Utility
         public const string ManagerRole = "Manager";
         public const string AdminRole = "Admin";
         public const string FrontDeskRole = "Front";
-        public const string CustomerRole = "Customer";
+        public const string CustomerRole = "Customer"; //Accessed only if the user doesn't specify a role upon creation of the program.
 
         public const string StatusPending = "Pending_Payment";
         public const string StatusSubmitted = "Submitted_PaymentApproved";
