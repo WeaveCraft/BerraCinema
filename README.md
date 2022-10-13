@@ -75,3 +75,13 @@ För VG krävs dessutom
 Ni kommer att få återkoppling på uppgiften i LearnPoint, inom två veckor efter inlämning.
 Återkoppling kommer även att lämnas i samband med gruppmöten samt under lärarledda
 handledningstimmar.
+
+![Screenshot 2022-10-13 220444](https://user-images.githubusercontent.com/90194213/195698629-efceb450-c981-4b5f-9536-7027b5fdf0c9.png)
+![Screenshot 2022-10-13 220456](https://user-images.githubusercontent.com/90194213/195698646-c5677248-b829-4449-be2d-f6d0733e7d20.png)
+![Screenshot 2022-10-13 220507](https://user-images.githubusercontent.com/90194213/195698658-f8ae3f40-d633-45d8-813b-6059f8eab0e3.png)
+![Screenshot 2022-10-13 220522](https://user-images.githubusercontent.com/90194213/195698662-67cd073c-cc26-4b7e-8c82-1cf830b9a65c.png)
+![Screenshot 2022-10-13 220542](https://user-images.githubusercontent.com/90194213/195698667-43f6d47a-32ef-4ab1-acc0-df6d571a8d21.png)
+![Screenshot 2022-10-13 220556](https://user-images.githubusercontent.com/90194213/195698672-9da85deb-bdb0-42b0-9051-6f5c8a23d5b4.png)
+![Screenshot 2022-10-13 220605](https://user-images.githubusercontent.com/90194213/195698686-73965885-8e03-4722-87a0-701da6cf471c.png)
+![Screenshot 2022-10-13 220314](https://user-images.githubusercontent.com/90194213/195698693-3f1153d4-c29e-43ad-af27-7d5fdeda6cb4.png)
+
